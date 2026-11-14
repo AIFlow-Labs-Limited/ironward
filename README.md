@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="IRONWARD" width="100%"></p>
+
 # IRONWARD
 **Governed AI security operations for companies with no security team.**
 
@@ -6,7 +8,7 @@ Most security tools stop at an alert or a suggestion. IRONWARD carries a finding
 ## How it works
 1. **Inspect** — AI agents investigate a finding on an enrolled system (read-only).
 2. **Approve** — the agents prepare an exact repair. A named person approves that specific change, for that system, for a limited time.
-3. **Repair** — the change runs inside enforced limits, on an isolated copy first.
+3. **Repair** — the change runs inside enforced limits, on an isolated copy before the live system.
 4. **Verify** — a separate step confirms the issue is closed *and* normal business functions still work.
 5. **Report** — an evidence report records what was seen, approved, changed and verified. It belongs to the customer.
 
