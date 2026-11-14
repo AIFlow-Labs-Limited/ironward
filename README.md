@@ -28,6 +28,8 @@ Working engineering prototype in our lab. Pilots with Hong Kong companies throug
 - [**IRONWARD-WEB**](https://github.com/AIFlow-Labs-Limited/ironward-web) — authorised testing of your own web application
 - [**IRONWARD-WEB3**](https://github.com/AIFlow-Labs-Limited/ironward-web3) — smart-contract review for tokenization projects
 
+AIFLOW LABS products → **IRONWARD** · [IRONWARD-WEB](https://github.com/AIFlow-Labs-Limited/ironward-web) · [IRONWARD-WEB3](https://github.com/AIFlow-Labs-Limited/ironward-web3) · [REWIRE](https://github.com/AIFlow-Labs-Limited/rewire) · [IMPERA](https://github.com/AIFlow-Labs-Limited/impera)
+
 ---
 **AIFLOW LABS LIMITED** · Hong Kong company, registered office in Sheung Wan · Company No. 78586258
 [aiflowlabs.io](https://aiflowlabs.io) · ilessio@aiflowlabs.io
